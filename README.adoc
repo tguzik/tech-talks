@@ -1,0 +1,15 @@
+= Tech Talks
+:toclevels: 3
+:numbered!:
+:sectanchors:
+:sectlinks:
+:sectnums:
+:docinfo: shared
+:linkattrs:
+:tip-caption: 💡
+:note-caption: ℹ️
+:important-caption: ❗
+:source-highlighter: highlightjs
+
+
+// eof
