@@ -19,6 +19,30 @@ of conference talks, but that isn't a hard requirement either as regular youtube
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not in
 any particular order.
 
+== 2024-09-23
+
+* https://www.youtube.com/watch?v=OM_8UOPFpqE["Keynote: Linus Torvalds in Conversation with Dirk Hohndel"]
+* https://www.youtube.com/watch?v=Y9clBHENy4Q["Programming's Greatest Mistakes • Mark Rendle • GOTO 2023"]
+* https://www.youtube.com/watch?v=mTa2d3OLXhg["DHH Is Right About Everything"]
+* https://www.youtube.com/watch?v=FbV9EFHnGOE["How Flow Works • James Lewis • GOTO 2024"]
+* https://www.youtube.com/watch?v=mqoU2C-USP0["The C4 Model – Misconceptions, Misuses & Mistakes • Simon Brown • GOTO 2024"]
+* https://www.youtube.com/watch?v=m7cWdYVAzX0["Learning Systems Thinking • Diana Montalion & Charles Humble • GOTO 2024"]
+* https://www.youtube.com/watch?v=CELF_qOW2Pw["Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=dg2MwYl9bMc["Developer productivity is waste - Michael Coté - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=t7L2iROVaRg["Nate Abele - Running K8s in the Browser. Yes, Really. Well, Not Really.  Kind of. // Carolina Code 24"]
+* https://www.youtube.com/watch?v=_AefJX66io8["Understanding The constexpr 2-Step - Jason Turner - C++ on Sea 2024"]
+* https://www.youtube.com/watch?v=VWiUYbtSWRI["C++11 to C++23 in the C++ Memory Model - Alex Dathskovsky - C++Now 2024"]
+* https://www.youtube.com/watch?v=DLgM570cujU["Zero-Cost Abstractions in C++ - High Performance Message Dispatch - Luke Valenty - C++Now 2024"]
+* https://www.youtube.com/watch?v=79Bb4L6txTw["C++ Zero Overhead Pass by Value Through Invocable C++ Abstractions - Filipp Gelman - C++Now 2024"]
+* https://www.youtube.com/watch?v=0rlATWBNvMw["DHH discusses SQLite (and Stoicism)"]
+* https://www.youtube.com/watch?v=tsEuA9S5q9Q["Aida Getoeva - Async C++/Rust Interoperability"]
+* https://www.youtube.com/watch?v=MZz6Gt_Uv08["Are Rewrites always a Bad Idea? - Adele Carpenter - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=ommhbiRx-vI["Jason Crome - Modern Web Development in Perl // Carolina Code Conference 2024"]
+* https://www.youtube.com/watch?v=VlpT-qZBWdk["Why CoPilot Is Making Programmers Worse"]
+* https://www.youtube.com/watch?v=0WYgKc00J8s["Casey Muratori on his work experience"]
+* https://www.youtube.com/watch?v=3fchvdSPpZY["Rust Features that I Want in C++"] [2022]
+* https://www.youtube.com/watch?v=rp2kFFfk2Hc["Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak"] [PL]
+
 == 2024-09-02
 
 * https://www.youtube.com/watch?v=si9iqF5uTFk["Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)"]
