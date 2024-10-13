@@ -19,6 +19,39 @@ of conference talks, but that isn't a hard requirement either as regular youtube
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not in
 any particular order.
 
+== 2024-10-13
+
+* https://www.youtube.com/watch?v=4AB9cEfpaGA["Platforms: Build abstractions, not illusions by Gregor Hohpe"]
+* https://www.youtube.com/watch?v=A_ImrhN9H6A["Java 23 - Better Language, Better APIs, Better Runtime"]
+* https://www.youtube.com/watch?v=P1nDlF2vg1I["Wait no more, here comes Maven 4! by Robert Scholte, Maarten Mulders"]
+* https://www.youtube.com/watch?v=8F-ymGprwak["The Science of Signals: Mastering Telemetry for Observability by Alex Van Boxel, Maximilien Richer"]
+* https://www.youtube.com/watch?v=l-oCDQGH3EU["Being Staff Plus - Ian Cooper - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=UrU8O1mMyNE["Mistakes to Avoid When Writing C++ Projects - Bret Brown - C++Now 2024"]
+* https://www.youtube.com/watch?v=fgezCKfUfm8["Productivity Panel • C. Majors, B. Böckeler, M. Greiler, D. Terhorst-North & J. Lewis • GOTO 2024"]
+* https://www.youtube.com/watch?v=u5XC2nriqpQ["Micro Benchmarking - The Art of Realizing One is Wrong by René Schwietzke"]
+* https://www.youtube.com/watch?v=0A5B0vciIS0["Building on clang-tidy to Move From printf-style to std::print-style Logging and Beyond - Mike Crowe"]
+* https://www.youtube.com/watch?v=oTMKB-fVJus["LLMs gone wild - Tess Ferrandez-Norlander - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=eHWFHFQ8tKo["A Kafka Producer’s Request: Or, There and Back Again by Danica Fine"]
+* https://www.youtube.com/watch?v=XfU2ZODl6EU["How to Keep C++ Binaries Small - Techniques for C++ Optimization - Sandor Dargo - C++ on Sea 2024"]
+* https://www.youtube.com/watch?v=axQXBKHSwkM["Bring the action: using GraalVM in production by Alina Yurenko"]
+* https://www.youtube.com/watch?v=G-dkJe6s9us["Enhancing Productivity and Insight: A Tour of JDK Tools Progress Beyond Java 17 by Mihalceanu"]
+* https://www.youtube.com/watch?v=YP-_4oHcPwI["How JavaScript Happened: A Short History of Programming Languages by Mark Rendle"]
+* https://www.youtube.com/watch?v=JY-4QEC8A_g["The Pearls and Pitfalls of DateTime by Mahmoud Abdelghany"]
+* https://www.youtube.com/watch?v=68mbO92-Jfo["The Current State of Apache Maven 4 - Development by Karl Heinz Marbaise"]
+* https://www.youtube.com/watch?v=yQC6LBSw2zs["Migrating Spring Boot apps to GraalVM by Alina Yurenko, Daniel Garnier-Moiroux"]
+* https://www.youtube.com/watch?v=4rYPXgCKamM["HTTP/3 and QUIC: Who, what, where, when and, WHY? by Robin Marx"]
+* https://www.youtube.com/watch?v=Yiye8lqh0Ig["Postcards from the Peak of Complexity by Brian Goetz"]
+* https://www.youtube.com/watch?v=mIbA2ymCWDs["Serialization: A New Hope by Viktor Klang, Brian Goetz"]
+* https://www.youtube.com/watch?v=n6K_8s3Sx4s["The Peak of Complexity with Brian Goetz - Q&A at Devoxx BE"]
+* https://www.youtube.com/watch?v=OV_bBnj2Lew["Project Panama in Action: Building a File System by David Vlijmincx"]
+* https://www.youtube.com/watch?v=F8GoDqTtSOE["Supercharge your Java Applications with Python! by Fabio Niephaus, Thomas Wuerthinger"]
+* https://www.youtube.com/watch?v=ux1xoUR9Xm8["gRPC Rust - Doug Fawley, Google, and Lucio Franco, Turso"]
+* https://www.youtube.com/watch?v=xV4rLfpidIk["CloudFlare - Trie Hard - Big Savings On Cloud"]
+* https://www.youtube.com/watch?v=Z9uMPYB74o0["Rails World Is So Good"]
+* https://www.youtube.com/watch?v=2Jobi1NOxj4["The Worlds Largest DDos Attack 3.8 Tbps"]
+* https://www.youtube.com/watch?v=69qfsnhEl-c["Keynote: How To Be A Rockstar Developer - Dylan Beattie - CPH DevFest 2024"]
+* https://www.youtube.com/watch?v=Gu0ziZbrlmY["Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki"] [PL]
+
 == 2024-09-23
 
 * https://www.youtube.com/watch?v=OM_8UOPFpqE["Keynote: Linus Torvalds in Conversation with Dirk Hohndel"]
