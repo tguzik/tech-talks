@@ -19,6 +19,21 @@ of conference talks, but that isn't a hard requirement either as regular youtube
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not in
 any particular order.
 
+== 2024-10-20
+
+* https://www.youtube.com/watch?v=VAgT7CY572U["A Field Guide to Reliability Engineering at Zalando • Heinrich Hartmann • GOTO 2024"]
+* https://www.youtube.com/watch?v=3BFcYTpHwHw["The next phase of Project Loom and Virtual Threads by Alan Bateman"]
+* https://www.youtube.com/watch?v=A5SefnQPyn0["DEF CON 32 - An adversarial approach to Airline Revenue Management Proving Ground - Craig Lester"]
+* https://www.youtube.com/watch?v=3dHZ-l3XSsE["DEF CON 32 - Your CI CD Pipeline Is Vulnerable, But It's Not Your Fault - Elad Pticha, Oreen Livni"]
+* https://www.youtube.com/watch?v=5P7KatZBr_I["DEF CON 32 - Grand Theft Actions Abusing Self Hosted GitHub Runners - Adnan Khan, John Stawinski"]
+* https://www.youtube.com/watch?v=1upEyCKVpkI["DEF CON 32 - The Immortal Retrofuturism of Mainframes and How to Keep Them Safe- Michelle Eggers"]
+* https://www.youtube.com/watch?v=zBP2deuPQTg["DEF CON 32 -Your Smartcard is Dumb A Brief History of Hacking Access Control Systems - Chad Shortman"]
+* https://www.youtube.com/watch?v=x6fU8C0kLBw["Mathieu Ropert: Heaps Don't Lie - Guidelines for Memory Allocation in C++"]
+* https://www.youtube.com/watch?v=xlf4oXoP8qI["Nikhil Suresh - Skills that programmers need, to defend both their code and their careers"]
+* https://www.youtube.com/watch?v=Zr09I5OlOjs["The Magic Of ARM w/ Casey Muratori"]
+* https://www.youtube.com/watch?v=LoRc5A8QCmw["Laravel Creator talks PHP, Lambos, and VC"]
+* https://www.youtube.com/watch?v=7PKUj37mBlI["Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski"] [PL]
+
 == 2024-10-13
 
 * https://www.youtube.com/watch?v=4AB9cEfpaGA["Platforms: Build abstractions, not illusions by Gregor Hohpe"]
