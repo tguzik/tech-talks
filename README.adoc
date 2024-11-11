@@ -16,8 +16,37 @@ new - similar lists have been around since the heyday of `del.icio.us`, nearly t
 The links are added in updates marked with a date. Realistically each update will have a bias towards recent
 publication dates, however this isn't a hard requirement. Large portion of the links will lead to youtube recordings
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
-is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not in
-any particular order.
+is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
+
+== 2024-11-11
+
+* https://www.youtube.com/watch?v=EmfPZkgMVic["Speeding Up Innovation • Adrian Cockcroft • YOW! 2019"]
+* https://www.youtube.com/watch?v=xfkqNLzQCX8["You Don't Want Serverless - Erik Onarheim - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=zqjyPl5ytZc["Developer Joy – How great teams get s%*t done - Sven Peters - NDC Oslo 2024"]
+* https://www.youtube.com/watch?v=eg8Q8jR6tX4["Herding cats: lessons from 15 years of managing engineers at Microsoft - Kevin Pilch"]
+* https://www.youtube.com/watch?v=czd26hnEiiM["Ditch your Backlog and Shape Up your product development - Glenn F. Henriksen - CPH DevFest 2024"]
+* https://www.youtube.com/watch?v=AzxOG-RXDpc["Scaling EDA Workloads with Kubernetes, KEDA & Karpenter • Natasha Wright • GOTO 2024"]
+* https://www.youtube.com/watch?v=2c_SaHI3KLs["Post Mortems for 4 Years of Remote Execution - Ulf Adams, EngFlow Inc."]
+* https://www.youtube.com/watch?v=eL1yyTwu4hc["Valhalla - Where Are We? by Brian Goetz"]
+* https://www.youtube.com/watch?v=xFb_LcapbXw["Java Performance Update 2024 by Per Minborg"]
+* https://www.youtube.com/watch?v=wcENUyuzMNM["ZGC Automatic Heap Sizing #JVMLS"]
+* https://www.youtube.com/watch?v=5wkzEy_BXdA["Garbage Collection in Java: The progress since JDK 8 by Stefan Johansson"]
+* https://www.youtube.com/watch?v=bOEPqLyazAk["Java's Hidden Gems: Tools and Libraries by Johan Janssen"]
+* https://www.youtube.com/watch?v=-Yy5T_P50iU["Closing Keynote: C++ Development Tools: Past, Present and Future - Marshall Clow - C++Now 2024"]
+* https://www.youtube.com/watch?v=FNi1-x4pojs["Peering Forward - C++’s Next Decade - Herb Sutter - CppCon 2024"]
+* https://www.youtube.com/watch?v=t7EJTO0-reg["Security in C++ - Hardening Techniques From the Trenches - Louis Dionne - C++Now 2024"]
+* https://www.youtube.com/watch?v=d3t9YAmpN50["Practical Tips for Safer C++ - Tristan Brindle - C++ on Sea 2024"]
+* https://www.youtube.com/watch?v=flu-f6SDnOE["C++20 Modules - Review of the Current State of C++ Modules 2024 - Luis Caro Campos - C++ on Sea 2024"]
+* https://www.youtube.com/watch?v=twWFfYNd5gU["2024 Update: C++ Modules - C++ Developers Get Started Today! - Andreas Weis - ACCU 2024"]
+* https://www.youtube.com/watch?v=7USuyXL0q6Y["Writing a CAD Language in Rust (with Adam Chalmers)"]
+* https://www.youtube.com/watch?v=x2J8P9weVbs["COMP4300 - Game Programming - Lecture 17 - Optimizations, Cache Memory, Memory Pooling"]
+* https://www.youtube.com/watch?v=qFdOaHavhbI["WOOT '24 - Attacking with Something That Does Not Exist: 'Proof of Non-Existence' Can Exhaust DNS..."]
+* https://www.youtube.com/watch?v=rsNsoJfJiQA["WOOT '24 - Not Quite Write: On the Effectiveness of Store-Only Bounds Checking"]
+* https://www.youtube.com/watch?v=6hswHjXfTyk["WOOT '24 - Basilisk: Remote Code Execution by Laser Excitation of P–N Junctions Without..."]
+* https://www.youtube.com/watch?v=yOChFQAnbg0["Understanding Nuclear Power - Richard Campbell - CPH DevFest 2024"]
+* https://www.youtube.com/watch?v=lDiyPChiTyY["Sqlite Is Getting So Good"]
+* https://www.youtube.com/watch?v=onCHSujPlfg["JavaScript Is Becoming 2 Languages?? FROM TC39"]
+* https://www.youtube.com/watch?v=rQKbypWsNCI["Droga do Platform Engineering w OLX - Maciej Sobkowiak"] [PL]
 
 == 2024-10-20
 
