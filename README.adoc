@@ -18,6 +18,49 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2024-11-24
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=Y8lmJvy8hJg["Behind Schedule: Pod Resource Configuration from Beginning to... Huh? - Joe Thompson, Independent"]
+** https://www.youtube.com/watch?v=lAUmdIGP_fE["DNS Deep Dive in Kubernetes with CoreDNS - Jingming Guo, Airbnb"]
+** https://www.youtube.com/watch?v=SMkrps5ytOM["But Wait! There's...Still More‽ - Observability Data Volumes and Strategies for Managi... Éamon Ryan"]
+** https://www.youtube.com/watch?v=LrkLjMmTI6w["Whoops! How Not to Accidentally Delete Everything. - Dan Garfield, Codefresh by Octopus Deploy"]
+** https://www.youtube.com/watch?v=wvpWmWzOPiQ["Misadventures in Large Scale Cluster Performance - Shane Corbett, AWS & Dima Ilchenko, Lacework"]
+** https://www.youtube.com/watch?v=6nuCNCK_sdA["SIG-Multicluster Intro and Deep ... Jeremy Olmsted-Thompson & Laura Lorenz, Ryan Zhang, Stephen Kitt"]
+** https://www.youtube.com/watch?v=o5HpeMtpsTg["Unlocking Cost Savings & New Possibilities: Your Guide to Promet... Callum Styan & Bartłomiej Płotka"]
+** https://www.youtube.com/watch?v=0gSSmdNB-Zo["When Life Gives You Containers, Make an Open Source RDS: A Kubernetes Love Story - Sergey Pronin"]
+** https://www.youtube.com/watch?v=haeVAmhihT4["Extending the Gateway API: The Power and Challenges of Policies - Kate Osborn, NGINX"]
+** https://www.youtube.com/watch?v=Z35SlsYd1ds["The Future of DBaaS on Kubernetes - M. Logan, S. Pronin, D. Sigireddi, G. Bartolini"]
+** https://www.youtube.com/watch?v=NPLwv9cMtsM["How to Rollout an Update for a CNI Without Breaking the World Wide Web - Jen Luther Thomas, Tigera"]
+** https://www.youtube.com/watch?v=7Ypulc2GyoE["Enabling OpenTofu for the Enterprise - Jordan Argueta and Douglas Flagg, Fidelity Investments"]
+** https://www.youtube.com/watch?v=TDZUNRIhDAg["Lightning Talk: Kubernetes as Your DBA - Karen Jex, Crunchy Data"]
+** https://www.youtube.com/watch?v=vCzl15AIoU0["k8gb: Global Load Balancing, the Kubernetes Way | Project Lightning Talk"]
+** https://www.youtube.com/watch?v=jcDtB150inI["Prometheus: Celebrating Prometheus 3.0: All You Need To Know! | Project Lightning Talk"]
+** https://www.youtube.com/watch?v=f0lObSvR980["Buildpacks: Container Builds at Scale with Buildpacks | Project Lightning Talk"]
+** https://www.youtube.com/watch?v=6goN2YhSMvM["gRPC: The gRPC "Standard Library" | Project Lightning Talk"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=SPc9YpLsYo8["Ask the Java Architects"]
+** https://www.youtube.com/watch?v=YAXGU2J7XjM["97 Things Every Java Prog. Should Know • Trisha Gee & Kevlin Henney ft. Emily & Holly • GOTO 2024"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=xmqkRcAslw8["C++26 Preview - The Smaller Features - Jeff Garland - CppCon 2024"]
+** https://www.youtube.com/watch?v=t5wmI6bnuEc["C++ Core and Other C++ Guidelines - The Good, the Bad, the… Questionable? - Arne Mertz - C++ on Sea"]
+** https://www.youtube.com/watch?v=_UTgOC6jW8o["Dependency Injection in C++ - A Practical Guide - Peter Muldoon - C++ on Sea 2024"]
+** https://www.youtube.com/watch?v=GeblxEQIPFM["What Volatile Means (and Doesn’t Mean) in C++ Programming - Ben Saks - CppCon 2024"]
+** https://www.youtube.com/watch?v=VRGRTvfOxb4["Back to Basics: Almost Always Vector - Kevin Carpenter - CppCon 2024"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=qd3x5MCUrhw["Joshua Liebow-Feeser: "Safety in an Unsafe World" | RustConf 2024"]
+** https://www.youtube.com/watch?v=_uYOd3ExJII["Frédéric Ameye: "Rust in Legacy Regulated Industries" | Rust Global @ RustConf 2024"]
+** https://www.youtube.com/watch?v=fOApf4ZMX4w["Michael Gattozzi: "What Happens When You Run Cargo Build?" | RustConf 2024"]
+** https://www.youtube.com/watch?v=FRMJzNYut4g["Miguel Ojeda (Rust for Linux): KEYNOTE | RustConf 2024"]
+** https://www.youtube.com/watch?v=W45_KnLZ804["Jonathan Pallant: "Six Clock Cycle per Pixel - Graphics on the Neotron Pico" | RustConf 2024"]
+** https://www.youtube.com/watch?v=kiG5-LzIQ54["Unleashing 🦀 The Ferris Within - Victor Ciura | EuroRust 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=n6G5qtJHmgw["The Intersection of Architecture and Implementation - Mark Richards - DDD Europe"]
+** https://www.youtube.com/watch?v=2x2eIhn2BJM["Creator of Node talks Deno 2.0 and the Future of JS"]
+** https://www.youtube.com/watch?v=4aLy6qjhHeo["SEI' 24 - Modern Systems Programming: Rust and Zig - Aleksey Kladov"]
+* Non-English:
+** https://www.youtube.com/watch?v=Wyyj4m1yBYo["Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak"] [PL]
+
 == 2024-11-11
 
 * https://www.youtube.com/watch?v=EmfPZkgMVic["Speeding Up Innovation • Adrian Cockcroft • YOW! 2019"]
