@@ -18,6 +18,31 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2024-12-15
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=gZurRizN30A["What Kubernetes Should Learn from Other Orchestrators"]
+** https://www.youtube.com/watch?v=y0VLubJKT5U["KCD Denmark 2024: Keynote - Platform Engineering's Inferno - Matteo Bianchi"]
+** https://www.youtube.com/watch?v=L5XR-mUzNQo["KCD Denmark 2024: Abstract Your Organization's Tenancy Model Away With Crossplane"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=tjcU2xDmuFQ["C++ Memory Model: from C++11 to C++23 - Alex Dathskovsky"]
+** https://www.youtube.com/watch?v=hKY7OLLZw1w["2024 LLVM Dev Mtg - State of Clang as a C and C++ Compiler"]
+** https://www.youtube.com/watch?v=SOjnV81pjjI["Write Fast Code Like a Native - Saksham Sharma"]
+** https://www.youtube.com/watch?v=prC1Pe-F8Jo["Optimization Remarks - Remarks Helping the Compiler Generate Better Code - Ofek Shilon"]
+** https://www.youtube.com/watch?v=rfkSHxSoQVE["Leveraging C++20/23 Features for Low Level Interactions - Jeffrey Erickson - CppCon 2024"]
+** https://www.youtube.com/watch?v=FgfJhKik_jY["How To Implement the C++ Standard Library - (Part 1 of 2) - Christopher Di Bella - C++ on Sea 2024"]
+** https://www.youtube.com/watch?v=xS1gI0K7tWk["How to Implement the C++ Standard Library (Part 2): An Excursion into libc++ - Christopher Di Bella"]
+** https://www.youtube.com/watch?v=kOW74IUH7IA["10 Problems Large Companies Have Managing C++ Dependencies and How to Solve Them - Augustin Popa"]
+** https://www.youtube.com/watch?v=H3IdVM4xoCU["C++ Reflection Is Not Contemplation - Andrei Alexandrescu - CppCon 2024"]
+** https://www.youtube.com/watch?v=jzwqTi7n-rg["Back to Basics: Concepts in C++ - Nicolai Josuttis - CppCon 2024"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=qlvr4wqAIfg["A different serde"]
+** https://www.youtube.com/watch?v=zMxlVEKRonk["Angus Morrison: How Rust is Powering Next-Generation Space Mission Simulators | RustConf 2024"]
+** https://www.youtube.com/watch?v=YceLEVrBIuA["Fearless Refactoring and the Art of Argument-Free Rust - Ed Jones"]
+* Misc:
+** https://www.youtube.com/watch?v=czzAVuVz7u4["Why Can't We Make Simple Software? - Peter van Hardenberg"]
+** https://www.youtube.com/watch?v=fYWvTYFmVYs["Stories Every Developer Should Know • Neal Ford • YOW! 2018"]
+
 == 2024-11-24
 
 * Hashtag #CloudNative:
