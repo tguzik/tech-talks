@@ -18,6 +18,28 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-01-05
+
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=gG4BJ23BFBE["The existential threat against C++ and where to go from here - Helge Penne - NDC TechTown 2024"]
+** https://www.youtube.com/watch?v=KvhgNdxX6Uw["LLVM's Realtime Safety Revolution: Tools for Modern Mission Critical Systems - CppCon 2024"]
+** https://www.youtube.com/watch?v=bBvLmDJrzvI["The Carbon Language: Road to 0.1 - Chandler Carruth - NDC TechTown 2024"]
+** https://www.youtube.com/watch?v=MUOAovwQbFA["How To Use `constexpr` In C++23 - Jason Turner - NDC TechTown 2024"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=XA-FTziXXks["Rust in Google with Lars Bergstrom"]
+** https://www.youtube.com/watch?v=7_o-YRxf_cc["Visualizing memory layout of Rust's data types"]
+** https://www.youtube.com/watch?v=PPjXM8G8ax0["The SQLite Rewrite In Rust"]
+* Misc:
+** https://www.youtube.com/watch?v=oacoUMdD4_Y["Cell-Based Kubernetes - The Secret to Scalable, Repeatable and Res... - Shweta Vohra & Saiyam Pathak"]
+** https://www.youtube.com/watch?v=zg8xM0xxFa8["James Gosling on Java - Historical Oddities & Persistent Itches #JVMLS"]
+** https://www.youtube.com/watch?v=Qmo3nFq0qrc["38C3 - OMG WTF SSO - A beginner's guide to SSO (mis)configuration"]
+** https://www.youtube.com/watch?v=UkYCStkqyTk["Autonomous teams require great managers - Gitte Klitgaard & Jakob Wolman - CPH DevFest 2024"]
+** https://www.youtube.com/watch?v=rdJXUN4YV_M["Exploring the Unintended Consequences of Automation in Software • Courtney Nash • GOTO 2024"]
+** https://www.youtube.com/watch?v=SOM6cUz4d5I["Basics Designs and How We Got Them Wrong - Adam Furmanek - CPH 2024"]
+** https://www.youtube.com/watch?v=aiy5TrU-Hwc["Naming is Hard: Let's Do Better - Kate Gregory - NDC TechTown 2024"]
+** https://www.youtube.com/watch?v=0mbrLxAT_QI["Odin creator Ginger Bill on his programming language and state of software!"]
+** https://www.youtube.com/watch?v=KyxcjaaFC0g["Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny"] [PL]
+
 == 2024-12-15
 
 * Hashtag #CloudNative:
