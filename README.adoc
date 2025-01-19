@@ -18,6 +18,35 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-01-19
+
+* Hashtag #Architecture:
+** https://www.youtube.com/watch?v=JAouLQRyNHQ["Platforms: Build abstractions, not illusions - Gregor Hohpe - NDC Porto 2024"]
+** https://www.youtube.com/watch?v=uRmNSuYBUOU["What We Know We Don't Know - Hillel Wayne - DDD Europe"]
+** https://www.youtube.com/watch?v=PzRZLFWH1fY["An Introduction to Residuality Theory - Barry O'Reilly - NDC Porto 2024"]
+** https://www.youtube.com/watch?v=p8NTe7NFhH8["Orchestration vs. Choreography: The good, the bad, and the trade-offs - Laila Bougria - NDC Porto"]
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=FQUBDdQIkI4["Optimizing Java Applications on Kubernetes: beyond the Basics"]
+** https://www.youtube.com/watch?v=UfoT88iE-TY["Linux user namespaces: a blessing and a curse - Ignat Korchagin - NDC TechTown 2024"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=uOv6uLN78ks["C++ Safety And Security Panel 2024 - Hosted by Michael Wong - CppCon 2024"]
+** https://www.youtube.com/watch?v=1-OcraaQl8M["The C++ Execution Model - Bryce Adelstein Lelbach - Meeting C++ 2024"]
+** https://www.youtube.com/watch?v=Ik3gR65oVsM["C++ Shared Libraries and Where To Find Them - Luis Caro Campos - CppCon 2024"]
+** https://www.youtube.com/watch?v=Ny5nkjn2v5E["Not your GrandParent’s C++ - Phil Nash - NDC TechTown 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=YofBgJ2zpBs["Memory Safety: Rust vs. C - Robert Seacord - NDC TechTown 2024"]
+** https://www.youtube.com/watch?v=yJpVVBGCgoo["38C3 - AI Meets Git: Unmasking Security Flaws in Qodo Merge"]
+** https://www.youtube.com/watch?v=mWg_PFqCMlY["Open Source, Open Mind: The Cost of Free Software - Dylan Beattie - NDC Porto 2024"]
+** https://www.youtube.com/watch?v=xTgO6PpMnhk["Picking A Language In 2025"]
+** https://www.youtube.com/watch?v=YQnz7L6x068["Creator of Ghostty talks Zig over Go: Interview with Mitchell Hashimoto, former CEO & CTO of Hashicorp"]
+** https://www.youtube.com/watch?v=jamU6SQBtxk["Jonathan Blow on his programming language jai and upcoming game(s)!"]
+** https://www.youtube.com/watch?v=N17GQJBIaiU["38C3 - What's inside my train ticket?"]
+** https://www.youtube.com/watch?v=8OB2NqcSDXQ["38C3 - We've not been trained for this: life after the Newag DRM disclosure"]
+** https://www.youtube.com/watch?v=3qojgJGtTos["38C3 - Going Long! Sending weird signals over long haul optical networks"]
+** https://www.youtube.com/watch?v=ZHYbp1rJSvQ["38C3 - Is Green Methanol the missing piece for the Energy Transition?"]
+** https://www.youtube.com/watch?v=EG0JtGqgDh0["Understanding Nuclear Power - Richard Campbell - NDC Porto 2024"]
+** https://www.youtube.com/watch?v=2wPJfI8if4o["PLNOG 32 - Bezpieczeństwo sieci w kontekście usług DNS (Łukasz Bromirski)"] [PL]
+
 == 2025-01-05
 
 * Hashtag #C++:
