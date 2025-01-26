@@ -18,6 +18,38 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2024-01-26
+
+* Hashtag #CloudNative (some are reposts - previous videos got removed):
+** https://www.youtube.com/watch?v=MIk6kkBGk8E["Optimizing Resource Usage in Kubernetes by Carlos Sanchez"]
+** https://www.youtube.com/watch?v=2OkpYGtFd1Y["Behind Schedule: Pod Resource Configuration from Beginning to... Huh? - Joe Thompson"]
+** https://www.youtube.com/watch?v=JWwwtW8Hbjs["Navigating the Cgroup Transition: Bridging the Gap Between Kubernetes and User Expec... S. Kunkerkar"]
+** https://www.youtube.com/watch?v=WhFsYVHmg6E["Multi-Zone Clusters Inside and Out - Tom Dean & Phil Henderson, Buoyant"]
+** https://www.youtube.com/watch?v=VsYp_Z1PvOc["Love thy (Noisy) Neighbor: Strategies for Mitigating Performance Interference in Cloud-N... J. Perry"]
+** https://www.youtube.com/watch?v=bb0Op1G6XjQ["SIG-Node: Intro and Deep Dive - Sergey Kanzhelev & Dawn Chen, Google; Mrunal Patel, Red Hat"]
+** https://www.youtube.com/watch?v=sRHjg6bGfug["One Gateway API to Rule Them All (and in the Cluster Configure Them) - Flynn, Buoyant"]
+** https://www.youtube.com/watch?v=aOt62I2bkxk["Linkerd Update: Egress, Rate Limiting, Federated Services, and more William Morgan, Linkerd"]
+** https://www.youtube.com/watch?v=tKoxI-k7cu8["Kubernetes at Scale: Practical Solutions for Enhanced CNI and Kubelet P... H. Santana, B.G. da Silva"]
+** https://www.youtube.com/watch?v=kAgqZkNH2wQ["Micro-Segmentation and Multi-Tenancy: The Brown M&Ms of Platform Engine... J. Bugwadia, R. Wonnacott"]
+** https://www.youtube.com/watch?v=iMQR_l0ZvWU["Mish-Mesh: Abusing the Service Mesh to Compromise Kubernetes Environments - H. Ben-Sasson, N. Ohfeld"]
+** https://www.youtube.com/watch?v=VdF1tKfDnQ0["Goodbye etcd! Running Kubernetes on Distributed PostgreSQL - Denis Magda, Yugabyte"]
+** https://www.youtube.com/watch?v=iya0VJ-9qg0["Breaching AWS Accounts Through Shadow Resources"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=REnYIl3Iw-w["Spring Boot Unwrapped: Exploring the Latest Features by Sergi Almar"]
+** https://www.youtube.com/watch?v=OcUAyTY2V7g["StructuredTaskScope And ScopedValue - Get The Most Out of Virtual Threads by Christian Woerz"]
+** https://www.youtube.com/watch?v=Y4ExJScVnPk["Bring the Action: Using GraalVM in Production by Alina Yurenko"]
+** https://www.youtube.com/watch?v=oN6DUZ68S1c["What Can a Java Developer Learn from Golang? by Grzegorz Piwowarek"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=HY6UF84844U["The Most Popular Bugs and Code Smells in C and C++ - Philipp Dominik Schubert - Meeting C++ 2024"]
+** https://www.youtube.com/watch?v=Ny9-516Gh28["Secrets of C++ Scripting Bindings: Bridging Compile Time and Run Time - Jason Turner - CppCon 2024"]
+** https://www.youtube.com/watch?v=m0uQF2E6D0M["C++ Under the Hood: (Internal Class Mechanisms) - Chris Ryan - NDC TechTown 2024"]
+** https://www.youtube.com/watch?v=VDoyQyMXdDU["How to Design a Slimmer Vector of Variants in C++ - Christopher Fretz - CppCon 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=RA4UELfIp84["Haunted Projects Survival Guide by Paweł Zajączkowski"]
+** https://www.youtube.com/watch?v=t2V1ZzWh8k0["How writing just one import the wrong way slows down your website by François Martin"]
+** https://www.youtube.com/watch?v=dCryQg7CDyk["Benchmarketing fallacies: the 100 shades of truth by Francesco Nigro"]
+** https://www.youtube.com/watch?v=qHGMIwiFMtM["SE Radio 650: Robert Seacord on What's New in the C Programming Language"]
+
 == 2025-01-19
 
 * Hashtag #Architecture:
