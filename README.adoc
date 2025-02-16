@@ -18,6 +18,32 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-02-16
+
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=7lUPTxNNxM0["Flipping Bits: Your Credentials Are Certainly Mine"]
+** https://www.youtube.com/watch?v=mhZ1It6lb4M["Isolation or Hallucination? Hacking AI Infrastructure Providers for Fun and Weights"]
+** https://www.youtube.com/watch?v=twu5Mw0y9ss["Into the Inbox: Novel Email Spoofing Attack Patterns"]
+** https://www.youtube.com/watch?v=uv4AD6ICcfE["From HAL to HALT: Thwarting Skynet's Siblings in the GenAI Coding Era"]
+** https://www.youtube.com/watch?v=PKtklN8mOo0["38C3 - EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy"]
+** https://www.youtube.com/watch?v=0GlFVHHmJGg["38C3 - Attack Mining: How to use distributed sensors to identify and take down adversaries"]
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=kCNhgNXVdxw["What’s Going on in the Containerd Neighborhood? - P. Estes, S. Karp, A. Suda, M. Brown, K. Ashok"]
+** https://www.youtube.com/watch?v=DLgsks76r1I["DevOpsDays Kraków 2024 - 15 DevOps Years: Lessons Learned, Challenges Faced... - Ajay Chankramath"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=GUqs_CM7K_0["Beyond Compilation Databases to Support C++ Modules: Build Databases - Ben Boeckel - CppCon 2024"]
+** https://www.youtube.com/watch?v=RBrwlWogZeU["Classes C++23 Style - Sebastian Theophil - Meeting C++ 2024"]
+** https://www.youtube.com/watch?v=GDpbM90KKbg["ISO C++ Standards Committee Panel Discussion 2024 - Hosted by Herb Sutter - CppCon 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=7Ny25bObtK8["A Universal Query Engine in Rust (with Predrag Gruevski)"]
+** https://www.youtube.com/watch?v=_TKqc784PH8["Domain Re-discovery Patterns for Legacy Code - Richard Groß - DDD Europe 2024"]
+** https://www.youtube.com/watch?v=ngjkJN9RKgA["ThePrimeTime - The Greatest Software Engineers of All Time"]
+** https://www.youtube.com/watch?v=Et8CqMu_e6s["ThePrimeTime - New Research On CoPilot And Code Quality"]
+** https://www.youtube.com/watch?v=gSW3YJ8uyBI["38C3 - sixos: a nix os without systemd"]
+** https://www.youtube.com/watch?v=WsDQdL4F_EI["Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski"] [PL]
+** https://www.youtube.com/watch?v=S7ZZGOdYHHg["PLNOG 32 - Bezpieczeństwo danych w chmurze - TOMASZ WIERTELAK"] [PL]
+** https://www.youtube.com/watch?v=sv1W5u70gMA["PLNOG 32 - AWS Cloud to on-premise and back - Mastering Direct Connect with Compliance - Wojtek Róg"] [PL]
+
 == 2024-01-26
 
 * Hashtag #CloudNative (some are reposts - previous videos got removed):
