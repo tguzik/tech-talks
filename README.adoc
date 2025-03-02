@@ -18,6 +18,32 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-03-02
+
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=GJhab1qXNig["Self-Hosted GitHub CI/CD Runners: Continuous Integration, Continuous Destruction"]
+** https://www.youtube.com/watch?v=yaxXBbRYG_g["Moral Hazards and Ethical Considerations in Cyber-Insurance"]
+** https://www.youtube.com/watch?v=bQnbM2tFxAo["SEVEN things about API security - Philippe De Ryck - NDC Security 2025"]
+** https://www.youtube.com/watch?v=rykpVoAQiSI["Kicking in the Door to the Cloud: Exploiting Cloud Provider Vulnerabilities for Initial Access"]
+** https://www.youtube.com/watch?v=FH6P288i2PE["Living off Microsoft Copilot"]
+** https://www.youtube.com/watch?v=f8QaZkU55p8["Modern Anti-Abuse Mechanisms in Competitive Video Games"]
+** https://www.youtube.com/watch?v=LIYZemVCgiM["Microarchitecture Vulnerabilities: Past, Present, and Future"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=RccCeMsXW0Q["C++/Rust Interop: A Practical Guide to Bridging the Gap Between C++ and Rust - Tyler Weaver - CppCon"]
+** https://www.youtube.com/watch?v=1VgptLwP588["Microsoft is Getting Rusty: A Review of Successes and Challenges - Mark Russinovich"]
+** https://www.youtube.com/watch?v=EpJWD6HowKc["ABI Resilience - Victor Ciura"]
+** https://www.youtube.com/watch?v=GXkvX9A9xME["Crate security in 2025 - Adam Harvey"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=G-arJcvXnU8["C++ Security Fundamentals: From Standards to Practice : Assaf Tzur-El"]
+** https://www.youtube.com/watch?v=SuubuqI4gVA["Back to Basics: Object-Oriented Programming in C++ - Andreas Fertig - CppCon 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=1BLf822KNRw["Distributed teams that actually work by Bertrand Delacretaz"]
+** https://www.youtube.com/watch?v=waslay0E7DM["Deploying to production with confidence by Andres Almiray"]
+** https://www.youtube.com/watch?v=6bzS5GW6Ad4["How Autonomy Saved One of Spotify’s Most Loved Features • Joakim Sunden • YOW! 2024"]
+** https://www.youtube.com/watch?v=dU_WHead0oY["The Efficiency Paradox: How to Save Yourself & the World • Holly Cummins • GOTO 2024"]
+** https://www.youtube.com/watch?v=EtuPrryK6cI["The Unauthorized History of UTF :: Eddie Nolan"]
+** https://www.youtube.com/watch?v=ZUS7r3c3iGc["GitHub Copilot - How It Works, How We Got Here, Where It's Going • Damian Brady • YOW! 2024"]
+
 == 2025-02-16
 
 * Hashtag #InfoSec:
