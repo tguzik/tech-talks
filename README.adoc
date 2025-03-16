@@ -18,6 +18,22 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-03-16
+
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=4rAG4p6Xy9Y["Advanced Security with GitHub without GitHub Advanced Security by Johan Lindfors"]
+** https://www.youtube.com/watch?v=nZWpDeY9p6g["[BlackHat2024] The GCP Jenga Tower: Hacking Millions of Google's Servers With a Single Package (and more)"]
+** https://www.youtube.com/watch?v=8FZUbcyEVpI["[BlackHat2024] The Fundamentals of Cyber-Insurance"]
+** https://www.youtube.com/watch?v=35mdBRhulTQ["[BlackHat2024] The Hidden Treasure of Crash Reports?"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=k76LN8dSxx4["Clean CMake for C++ (library) developers - Kerstin Keller - Meeting C++ 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=X9vr7iQscpU["The Subtle Science of Misleading with Statistics by Dave McAllister"]
+** https://www.youtube.com/watch?v=yMU6wbXtFso["Architecture isn't Kubernetes - Diana Montalion - NDC London 2025"]
+** https://www.youtube.com/watch?v=Qdits--aoT4["CodeConcise: A New Era for Legacy Modernization • Rachel Laycock • YOW! 2024"]
+** https://www.youtube.com/watch?v=P7gJ9Lo0VrE["Distribu-ready with the Modular Monolith - Layla Porter - NDC London 2024"]
+** https://www.youtube.com/watch?v=zzmEUKcv_9Q["Observability query languages, the past, present and the future - Jacek Migdał"] [PL]
+
 == 2025-03-02
 
 * Hashtag #InfoSec:
@@ -70,7 +86,7 @@ is on topic. Talks that are not in english will be listed at the end, with a tag
 ** https://www.youtube.com/watch?v=S7ZZGOdYHHg["PLNOG 32 - Bezpieczeństwo danych w chmurze - TOMASZ WIERTELAK"] [PL]
 ** https://www.youtube.com/watch?v=sv1W5u70gMA["PLNOG 32 - AWS Cloud to on-premise and back - Mastering Direct Connect with Compliance - Wojtek Róg"] [PL]
 
-== 2024-01-26
+== 2025-01-26
 
 * Hashtag #CloudNative (some are reposts - previous videos got removed):
 ** https://www.youtube.com/watch?v=MIk6kkBGk8E["Optimizing Resource Usage in Kubernetes by Carlos Sanchez"]
