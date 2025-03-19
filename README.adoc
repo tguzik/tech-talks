@@ -22,9 +22,9 @@ is on topic. Talks that are not in english will be listed at the end, with a tag
 
 * Hashtag #InfoSec:
 ** https://www.youtube.com/watch?v=4rAG4p6Xy9Y["Advanced Security with GitHub without GitHub Advanced Security by Johan Lindfors"]
-** https://www.youtube.com/watch?v=nZWpDeY9p6g["[BlackHat2024] The GCP Jenga Tower: Hacking Millions of Google's Servers With a Single Package (and more)"]
-** https://www.youtube.com/watch?v=8FZUbcyEVpI["[BlackHat2024] The Fundamentals of Cyber-Insurance"]
-** https://www.youtube.com/watch?v=35mdBRhulTQ["[BlackHat2024] The Hidden Treasure of Crash Reports?"]
+** https://www.youtube.com/watch?v=nZWpDeY9p6g["BlackHat2024 - The GCP Jenga Tower: Hacking Millions of Google's Servers With a Single Package (and more)"]
+** https://www.youtube.com/watch?v=8FZUbcyEVpI["BlackHat2024 - The Fundamentals of Cyber-Insurance"]
+** https://www.youtube.com/watch?v=35mdBRhulTQ["BlackHat2024 - The Hidden Treasure of Crash Reports?"]
 * Hashtag #C++:
 ** https://www.youtube.com/watch?v=k76LN8dSxx4["Clean CMake for C++ (library) developers - Kerstin Keller - Meeting C++ 2024"]
 * Misc:
