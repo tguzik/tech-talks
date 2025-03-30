@@ -18,6 +18,25 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-03-30
+
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=J6VUAef7pjM["GitHub Actions: A Cloudy Day for Security - Sofia Lindqvist - NDC Security 2025"]
+** https://www.youtube.com/watch?v=SfBRx7WVyKQ["Keynote: Maturing Your Application Security Program - Tanya Janca - NDC Security 2025"]
+** https://www.youtube.com/watch?v=PaqZTvAmhcs["Using developer-centric data to predict, prioritize, and improve App Security Outcomes - Laura Bell"]
+** https://www.youtube.com/watch?v=AKD1nP7TXPI["Securing your cloud applications with identity & private networking best practices - Paul Yuknewicz"]
+** https://www.youtube.com/watch?v=eFbFMqaqSAk["Content Security Policy: From newbie to advanced - Halvor Sakshaug - NDC Security 2025"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=3noLqy_WQQ8["Unlocking the Value of C++20 Features :: Alex Dathskovsky"]
+** https://www.youtube.com/watch?v=aMvIv6blzBs["Back to Basics: Lifetime Management in Cpp - Phil Nash - CppCon 2024"]
+* Misc:
+** https://www.youtube.com/watch?v=4RUiVAlJE2w["Linux containers in (less than) 100 lines of shell - Michael Kerrisk - NDC Security 2025"] (audio gets fixed at 03:20)
+** https://www.youtube.com/watch?v=7WbREHtc5sU["The Pragmatic Engineer - How Linux is built with Greg Kroah-Hartman"]
+** https://www.youtube.com/watch?v=maw2hptpErI["Developer Voices - Nix, The Build Everything Language (with Julian Arni)"]
+** https://www.youtube.com/watch?v=pbIdEPbZGho["Optimistic Security - Niall Merrigan - NDC Security 2025"]
+** https://www.youtube.com/watch?v=8j5JmmvShr0["Trochę o Kubernetesie na produkcji - Michał Schott"] [PL]
+** https://www.youtube.com/watch?v=Ff4fkMS38go["Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski"] [PL]
+
 == 2025-03-16
 
 * Hashtag #InfoSec:
