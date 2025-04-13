@@ -18,6 +18,38 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-04-13
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=EQGX7DROBg4["Pod Deep Dive: Everything You Didn't Know You Needed to Know - Marcus Noble, Giant Swarm"]
+** https://www.youtube.com/watch?v=EYipC5y-8rM["From Milliseconds to Microseconds: Pushing Kubernetes Workloads to the Limit"]
+** https://www.youtube.com/watch?v=RBMRU8rtxfI["Evaluating Global Load Balancing Options for Kubernetes in Practice"]
+** https://www.youtube.com/watch?v=PciVvE02L2w["The Hidden Brains of Kubernetes: Meet Controllers Powering the Cloud - Faeka Ansari, Akuity Inc"]
+** https://www.youtube.com/watch?v=awXjABDknww["Understanding and Debugging DNS in Kubernetes Clusters"]
+** https://www.youtube.com/watch?v=ZR4jy0Fg0ZM["Noisy Neighbors Got You Down? Demystifying Kubernetes QoS and Linux Cgroups Tom - Wieczorek, Mirantis"]
+** https://www.youtube.com/watch?v=5vqHVdJ2aCs["Kubernetes from the Database Out - Edith Pucila & Alastair Turner, Percona"]
+** https://www.youtube.com/watch?v=WT591-MtSuo["The Infinite Hotel: Scaling Multi Tenant Platforms through a Unified API"]
+** https://www.youtube.com/watch?v=DdQzGsiounY["The Service Mesh Wars: A New Hope for Kubernetes - Henrik Rexed, CNCF Ambassador"]
+** https://www.youtube.com/watch?v=Hb37wNKcZdM["Immutable Turtles All the Way Down Image Based Kubernetes to power In Place Updates"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=NJxqVoEi5JI["Be more productive with IntelliJ IDEA - Marit van Dijk"]
+** https://www.youtube.com/watch?v=dJqUjuaISXE["Self-contained Native Binaries for Java with GraalVM - Thomas Wuerthinger"]
+** https://www.youtube.com/watch?v=F0z-LiZyExw["Hunting with Stream Gatherers - Piotr Przybył"]
+** https://www.youtube.com/watch?v=6yuDqkkYTGU["Sequenced Collections - Deep Dive with the Expert"]
+** https://www.youtube.com/watch?v=A-za5Rxxh5o["StructuredTaskScope And ScopedValue - Get The Most Out of Virtual Threads - Christian Wörz"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=EcbmDXA4Inc["Lightning Talk: C++ and Rust Bindings - Mixing It Best With CMake - Damien Buhl - CppCon 2024"]
+** https://www.youtube.com/watch?v=oH1JKMKwDDA["Lightning Talk: Remote Execution Caching Compiler (RECC) for C++ Builds - Shivam Bairoliya - CppCon"]
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=DqCLMuaXhQg["Identifying New Attack Paths via Password Analysis | Esteban Rodriguez"]
+** https://www.youtube.com/watch?v=bZSF4bcOSPc["Effectively Detecting Modern Code Injection Techniques with Volatility 3 | Andrew Case"]
+* Misc:
+** https://www.youtube.com/watch?v=0y7IFUYUTgg["The Past, Present & Future of Programming Languages • Kevlin Henney • GOTO 2024"]
+** https://www.youtube.com/watch?v=6lEVtTJrfkI["Mayday Mark 2! More Software Lessons From Aviation Disasters by Adele Carpenter"]
+** https://www.youtube.com/watch?v=aejmi16BFnE["Efficient Reliable Database Migration: A Legacy Innovation Story • Dave Thomas • GOTO 2024"]
+** https://www.youtube.com/watch?v=RNdspOqbBEk["Writing Greener Software Even When You Are Stuck On-Prem • Charles Humble • GOTO 2024"]
+** https://www.youtube.com/watch?v=3s92JDUvfGo["Confessions of a Keyboard Addict: Where Ergonomics Meets Efficiency - Guus de Wit"]
+
 == 2025-03-30
 
 * Hashtag #InfoSec:
