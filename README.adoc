@@ -18,6 +18,47 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-04-29
+
+* Hashtag #Architecture:
+** https://www.youtube.com/watch?v=Jjrencq8sUQ["VDBUH2025 - Simon Martinelli - Goodbye Microservices, Hello Self-Contained Systems"]
+** https://www.youtube.com/watch?v=cjmiHdH9zGA["Devoxx Greece 2025 : Orchestration vs. Choreography: The good, the bad, and the trade-offs"]
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=rHOwhkHv21U["Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025"]
+** https://www.youtube.com/watch?v=rSjcV22zx5w["SREcon25 Americas - Maturing Your Data Architecture in a Week: How Bluesky Survived"]
+** https://www.youtube.com/watch?v=RivD2EK5QFk["SREcon25 Americas - Techniques Netflix Uses to Weather Significant Demand Shifts"]
+** https://www.youtube.com/watch?v=2AehFxKlUgQ["SREcon25 Americas - Please Give Me Back My Network Cables! On Networking Limits in AWS"]
+** https://www.youtube.com/watch?v=uIfw0FBPpaQ["SREcon25 Americas - Network Flow Data in the Cloud"]
+** https://www.youtube.com/watch?v=bKam-KtUC3M["SREcon25 Americas - Case Study: A Thundering Herd in the Wild"]
+** https://www.youtube.com/watch?v=ihv5a_qIvPU["SREcon25 Americas - Taming the Beast: Understanding and Harnessing the Power of HTTP Proxies"]
+** https://www.youtube.com/watch?v=_k27UjmcoPU["SREcon25 Americas - The Search for Speed"]
+** https://www.youtube.com/watch?v=PkbX9jbHfho["SREcon25 Americas - The Perverse Incentives of Reliability"]
+** https://www.youtube.com/watch?v=k2mo_djN3qw["Devoxx Greece 2025 - Optimized Kubernetes scaling with Karpenter by Alex König"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=1dY57CDxR14["JavaOne - Where is the Java language going?"]
+** https://www.youtube.com/watch?v=W8k9ZCrsphc["JavaOne - SQL, JSON, and Java"]
+** https://www.youtube.com/watch?v=XpunFFS-n8I["JavaOne - How Netflix Uses Java - 2025 Edition"]
+** https://www.youtube.com/watch?v=sWGBJpTSBhc["J is for JVM"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=phvKOfk7keg["Microsoft with Victor Ciura"]
+** https://www.youtube.com/watch?v=zo6yZisg7N0["The promise of Rust"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=klUbc63UkNU["Lightning Talk: DevSecOps for C++? Keep Calm and use Conan - Luis Caro Campos - CppCon 2024"]
+** https://www.youtube.com/watch?v=vN0U4P4qmRY["Keynote: The Real Problem of C++ - Klaus Iglberger"]
+** https://www.youtube.com/watch?v=lkgszkPnV8g["CppCon 2017: Louis Brandy - Curiously Recurring C++ Bugs at Facebook"]
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=Brd-p6N0alI["BlackHat - Defending off the land: Agentless defenses available today"]
+** https://www.youtube.com/watch?v=8rptE4vVWn4["LowLevel - new prompt injection technique is INSANE"]
+* Misc:
+** https://www.youtube.com/watch?v=7sjyqiMjmZk["SREcon25 Americas - Lies Programmers Believe about Memory"]
+** https://www.youtube.com/watch?v=NWcXm9wnH-U["SREcon25 Americas - “On-Call Is Ruining My Life” and Other Tales about Holding the Pager as an SRE"]
+** https://www.youtube.com/watch?v=YQ5fLyYdQ3o["Devoxx Greece 2025 - CI/CD Automation journey: Transitioning from Manual Deployments to Fully Automated Pipelines"]
+** https://www.youtube.com/watch?v=4i-APXp5MzM["Devoxx Greece 2025 - We hate code - The !joy of maintaining dead code by Gerrit Grunwald"]
+** https://www.youtube.com/watch?v=9jfpUHwLQsU["SREcon25 Americas - Improving the SRE Experience for 10 Years as a Free, Open, and Automated Certificate Authority"]
+** https://www.youtube.com/watch?v=SQ0mBnJmd6I["ThePrimeTime - Let's Talk Open Source"]
+** https://www.youtube.com/watch?v=o1-BUCdog1c["ThePragmaticEngineer - Working at Amazon as a software engineer – with Dave Anderson"]
+** https://www.youtube.com/watch?v=zdZvKWpNzU8["TechOverTea - Long Awaited NixOS Episode | Tristan Ross"]
+
 == 2025-04-13
 
 * Hashtag #CloudNative:
