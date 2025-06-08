@@ -18,6 +18,46 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-06-08
+
+* Hashtag #Architecture:
+** https://www.youtube.com/watch?v=eLSkvNHgrRI["Fallacies of Software Development"]
+** https://www.youtube.com/watch?v=_nG09Z_tdUU["Side-Effects Are The Complexity Iceberg • Kris Jenkins • YOW! 2024"]
+** https://www.youtube.com/watch?v=aKTbGIrkrLE["From Prisma Founder to LiveStore: Building local-first apps with Johannes Schickling"]
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=cRmlKIdFBLA["Scaling Telemetry Systems with Streaming & Serverless - Liz Fong Jones - NDC Melbourne 2025"]
+** https://www.youtube.com/watch?v=muV5tYhswDU["Using Serverless & ARM64 for Real-Time Observability • Liz Fong-Jones • GOTO 2024"]
+** https://www.youtube.com/watch?v=vBjonut1JMk["How Kubernetes is Built with Kat Cosgrove"]
+** https://www.youtube.com/watch?v=8R1nVdAkIss["Disaster Recovery - jak sprawić, aby DR nie skończył się na "disaster"? - Filip Ulanowski"] [PL]
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=COUea93RE68["Enterprise Linux Security Episode 115 - RHEL 10"]
+** https://www.youtube.com/watch?v=X-9jPKwwL8w["The Black Hat Europe Network Operations Center (NOC) Report"]
+** https://www.youtube.com/watch?v=Og-cFpwqjQ4["Inside the Breach: Secrets Exposed - Troy Hunt - NDC Melbourne 2025"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=yOdfWyIHmRg["Demystifying Spring Boot Magic by Patrick Baumgartner @ Spring I/O 2025"]
+** https://www.youtube.com/watch?v=AF9RAgGN5CM["Cause of Death: Spring Data JPA by Thorben Janssen @ Spring I/O 2025"]
+** https://www.youtube.com/watch?v=rNJs9ZX7-Lw["DeveloperVoices: Java’s Cutting Edge Comeback (with Josh Long)"]
+* Hashtag #NativeCode:
+** https://www.youtube.com/watch?v=sTqbfdiOSUY["Open source C++ packages vulnerabilities and tools - Luis Caro"]
+** https://www.youtube.com/watch?v=MhfUDnLge-s["C++20 Modules Support in SonarQube: How We Accidentally Became a Build System - Alejandro Álvarez"]
+** https://www.youtube.com/watch?v=AVmgL-97kqo["2025 EuroLLVM - C++ interoperability with memory-safe languages"]
+** https://www.youtube.com/watch?v=rYOCPBUM1Hs["2025 EuroLLVM - Recipe for Eliminating Entire Classes of Memory Safety Vulnerabilities in C and C++"]
+** https://www.youtube.com/watch?v=IvPP5U2wzlE["Rust Vs C++ Beyond Safety - Joseph Cordell - ACCU Cambridge"]
+** https://www.youtube.com/watch?v=zfb1y8yn8QI["Understanding Rust – Or How to Stop Worrying & Love the Borrow-Checker • Steve Smith • YOW! 2024"]
+** https://www.youtube.com/watch?v=usXhALmZI7Q["MattGodbolt: C++ and Rust: Different Tools for the Job"]
+** https://www.youtube.com/watch?v=t_oSW9DcCSs["Rust with Niko Matsakis"]
+* Hashtag #Nix:
+** https://www.youtube.com/watch?v=5D3nUU1OVx8["Surma: Nix explained from the ground up"]
+** https://www.youtube.com/watch?v=UgrwoAGSPOQ["Vimjoyer: Nix Language Explained"]
+** https://www.youtube.com/watch?v=S3VBi6kHw5c["Vimjoyer: Nix flakes explained"]
+* Misc:
+** https://www.youtube.com/watch?v=sCr_gb8rdEI["GitHub: Two decades of Git - A conversation with creator Linus Torvalds"]
+** https://www.youtube.com/watch?v=biBLEKm2dtY["ThePrimeTime: Former Linux Dev on OSS, Rust, and Rewriting SQLite"]
+** https://www.youtube.com/watch?v=qrIONldzy0U["TechOverTea: Anubis - The Saviour Of FOSS Websites | Xe Iaso"]
+** https://www.youtube.com/watch?v=X9_i0DhnJcw["Exposing the Interview Process by Taylor Desseyn @ Spring I/O 2025"]
+** https://www.youtube.com/watch?v=rWMQ-g2QDsI["Oxidise Your Command Line (2025 Edition)"]
+** https://www.youtube.com/watch?v=-1-OjxPJZcs["How Does Linux Work? | Greg Kroah-Hartman"]
+
 == 2025-04-29
 
 * Hashtag #Architecture:
