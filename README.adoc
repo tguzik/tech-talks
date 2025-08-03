@@ -18,6 +18,49 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-08-03
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=J_hHiwa_3QU["Keynote: Hybrid Cloud Architecture: Making Big Bets on Open Standards - Margaret Dawson"]
+** https://www.youtube.com/watch?v=fvmzAX_ZyvM["How To Think About Instrumentation Overhead - Jason Plumb, Splunk"]
+** https://www.youtube.com/watch?v=M4I4VM0UeKw["Decoding OpenTelemetry(OTel) Collector: A Deep Dive into Architecture - Yang Song, Datadog"]
+** https://www.youtube.com/watch?v=DH6mIzqG3aQ["Lightning Talk: Taming Metric Cardinality: Practical Cost Reduction Wit... Jon Reeve & Eric Anderson"]
+** https://www.youtube.com/watch?v=_5bkt2wWq60["What’s New in Valkey - Madelyn Olson, Amazon & Ping Xie, Google"]
+** https://www.youtube.com/watch?v=piyovtmfMWI["Safeguarding Your Applications - Achieving Zero Downtime During Kube... Kazuki Uchima & Kakeru Ishii"]
+** https://www.youtube.com/watch?v=C6aBa1vnYT4["Never Underestimate Memory Architecture - Bryan Boreham, Grafana Labs"]
+** https://www.youtube.com/watch?v=fH-OmTQxEQA["Wdrożenia zero downtime dla aplikacji opartych na Azure Paas - Tomasz Pęczek"] [PL]
+* Hashtag #InfoSec:
+** https://www.youtube.com/watch?v=olLGVfa-bQ0["Whoops! I Accidentally Leaked My Cloud Keys - Eve Martin-Jones & Hayden Blauzvern, Google"]
+** https://www.youtube.com/watch?v=Nsk5_HNFy-Y["Your Silent Software Saboteur: Open Source Malware - Brian Fox, Sonatype"]
+** https://www.youtube.com/watch?v=v17iIVdpP7E["Michał Purzyński: Życie z telefonem opancerzonym mitygacją | OMH 2024"] [PL]
+** https://www.youtube.com/watch?v=UAbmmjp5QCg["Mateusz Chrobok: Przejdzie bokiem, czyli o Side Channelach | OMH 2024"] [PL]
+** https://www.youtube.com/watch?v=FW-hZDHpCHs["Maciej Broniarz: Secret? Midnight? Zamieć? | OMH 2024"] [PL]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=mYcHoXVnRmM["Integrity by Default - Inside Java Podcast 38"]
+** https://www.youtube.com/watch?v=R8Xubleffr8["Marshalling: Data-Oriented Serialization"]
+** https://www.youtube.com/watch?v=K2tYAHG2XJ8["Spring Debugger: A New Way To Demystify Spring Boot's Magic by Marco Behler @ Spring I/O 2025"]
+** https://www.youtube.com/watch?v=cR2RbEglY9Y["Project Valhalla: Flat Value Types in Java | Cay Horstmann"]
+** https://www.youtube.com/watch?v=XtvR4kqK8lo["A New Model for Java Object Initialization"]
+** https://www.youtube.com/watch?v=p9Zd_uOe2l8["Advanced 'Java 101' | Nicolai Parlog"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=QQzAWxYKPSE["Advanced Rust Programming Techniques • Florian Gilcher • GOTO 2024"]
+** https://www.youtube.com/watch?v=q3VOsGzkM-M["The ultimate Rust performance guide"]
+** https://www.youtube.com/watch?v=a0y7v6n50nE["1Password with Andrew Burkhart"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=74WOvgGsyxs["Heaps Don’t Lie - Guidelines for Memory Allocation in C++ - Mathieu Ropert - ACCU 2025"]
+** https://www.youtube.com/watch?v=u73ZB_vml_c["Contracts for C++ - Timur Doumler - ACCU 2025"]
+* Misc:
+** https://www.youtube.com/watch?v=SfIvrtDsE3Q["Data: The Land DevOps Forgot • Michael Nygard • GOTO 2024"]
+** https://www.youtube.com/watch?v=vW_MgFBYlVw["Strategic Decision-Making for Tech Leaders and Developers - Stephen Sennett - NDC Melbourne 2025"]
+** https://www.youtube.com/watch?v=wo84LFzx5nI["Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025"]
+** https://www.youtube.com/watch?v=3r9PsVwGkg4["AaronFrancis: Making MySQL faster"]
+** https://www.youtube.com/watch?v=RntTGD4pp14["SelfDirectedResearch: How is software safety certified?"]
+** https://www.youtube.com/watch?v=jVC4DP-8xLM["TigerBeetle - Building Systems, Simply by Matklad"]
+** https://www.youtube.com/watch?v=V8Bg55lTUCw["ThePrimeTime: Zig and Rust in Production (ft. Matklad)"]
+** https://www.youtube.com/watch?v=r4LkaPkxang["DeveloperVoices: InfluxDB - The Evolution of a Time Series Database (with Paul Dix)"]
+** https://www.youtube.com/watch?v=LLebhphhMQ0["JDD 2024: Produkcja nie daje spać, czyli kwartał walki o lepsze jutro - Łukasz Guz"] [PL]
+** https://www.youtube.com/watch?v=3hiP0Ra6Wrc["JDD 2024: Krótki kurs myślenia biznesowego dla inżynierów i inżynierek - Michał Bartyzel"] [PL]
+
 == 2025-06-08
 
 * Hashtag #Architecture:
