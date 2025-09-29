@@ -18,6 +18,40 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-09-29
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=mXIsw4aIN3o["Caulking the deployment gap: absolutely zero downtime deployments in Kubernetes - Øystein Blixhavn"]
+** https://www.youtube.com/watch?v=KFmVzJU9i_E["Scaling applications in Kubernetes: from standard HPA to your own operator - Bartosz Rybacki"] [PL]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=Gz7Or9C0TpM["Growing the Java Language #JVMLS"]
+** https://www.youtube.com/watch?v=Fb2U3idOw2I["What’s New in JDK 25? Full Release Notes Breakdown - Inside Java Newscast #98"]
+** https://www.youtube.com/watch?v=FLXaRJaWlu4["From Final to Immutable: The not-so-final word on `final` #JVMLS"]
+** https://www.youtube.com/watch?v=UVsevEdYSwI["Auto-Vectorization in HotSpot #JVMLS"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=k_sp5wvoEVM["Zngur - Simplified Rust/C++ Integration - David Sankel - C++Now 2025"]
+** https://www.youtube.com/watch?v=R0dP-QR5wQo["JaneStreet: Rust for Everyone!"]
+** https://www.youtube.com/watch?v=xihX4RzStYk["TimClicks: David Sankel – Rust and C++ Interop"]
+** https://www.youtube.com/watch?v=EHu15-E89YY["How To Compile Rust Code Faster: Compiler 101 — Benjamin Bouvier at Rust in Paris 2025 🦀 Conf"]
+** https://www.youtube.com/watch?v=ct10kgmcFmE["SelfDirectedResearch: Intrusive lists for fun and profit"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=Nm9-xKsZoNI["Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20 - Keith Stockdale ACCU 2025"]
+** https://www.youtube.com/watch?v=xNHKTdnn4fY["How to Avoid Headaches with Simple CMake - Bret Brown - C++Now 2025"]
+** https://www.youtube.com/watch?v=K5Kg8TOTKjU["Post-Modern Cmake - From 3.0 to 4.0 - Vito Gamberini - C++Now 2025"]
+** https://www.youtube.com/watch?v=3zQ4zw4GNV0["Safer C++ at Scale with Static Analysis - Yitzhak Mandelbaum - C++Now 2025"]
+* Misc:
+** https://www.youtube.com/watch?v=zACEkcRXrXI["Modernizing Legacy Code - While Not Bringing Down Prod - Joel Tosi - NDC Oslo 2025"]
+** https://www.youtube.com/watch?v=Dh9czZGXkss["ScreamingInTheCloud: The Transformation Trap - Why Software Modernization Is Harder Than It Looks"]
+** https://www.youtube.com/watch?v=f30PceqQWko["TigerBeetle: Don't Forget To Flush by Andrew Kelley"]
+** https://www.youtube.com/watch?v=u_5JppAExDs["Top 10 Rest API Design Pitfalls by Victor Rentea @ Spring I/O 2025"]
+** https://www.youtube.com/watch?v=NcpTbK8x_eg["The $200M Reason AMQP Became a Standard – A CTO's Inside Story"]
+** https://www.youtube.com/watch?v=010OKqc3ObM["AaronFrancis: Rewriting SQLite from scratch (yes, really)"]
+** https://www.youtube.com/watch?v=1Rch9qEJUcY["AaronFrancis: Sharding Postgres without extensions with PgDog founder, Lev Kokotov"]
+** https://www.youtube.com/watch?v=qhzTawm3_6Y["ThePrimeTime: The Evolution of Programming | The Standup"]
+** https://www.youtube.com/watch?v=tXJfS6jI9Z0["ThePrimeTime: 2 Language Creators vs 2 Idiots | The Standup"]
+** https://www.youtube.com/watch?v=O-3gEsfEm0g["ThePrimeTime: Why Making a Debugger is So Hard! | The Standup (ft. Ryan Fleury)"]
+** https://www.youtube.com/watch?v=ES5_IWG8rcw["Interview with Ginger Bill and Ryan Fleury on the fate of C Language"]
+
 == 2025-08-03
 
 * Hashtag #CloudNative:
