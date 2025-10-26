@@ -18,6 +18,37 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-10-26
+
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=lCprbhmX4II["Java 21 to 25 Better Language, Better APIs, Better Runtime by Nicolai Parlog"]
+** https://www.youtube.com/watch?v=h16ngaxx0zo["Supercharge your JVM performance with Project Leyden and Spring Boot by Moritz Halbritter, Ana Maria"]
+** https://www.youtube.com/watch?v=4NQCjSsd-Mg["Spring Boot: Chapter 4 by Brian Clozel, Stephane Nicoll"]
+** https://www.youtube.com/watch?v=4sjJmKXLnuY["The New Java Best Practices by Stephen Colebourne"]
+** https://www.youtube.com/watch?v=3Ct4F6RTHSw["Functional Programming Code Smells by Victor Rentea"]
+** https://www.youtube.com/watch?v=223_7r0H6OE["From JDK 21 to JDK 25 - Java Performance Update 2025"]
+** https://www.youtube.com/watch?v=hcWKRfRR-7Y["Pattern Matching, Under the Microscope"]
+** https://www.youtube.com/watch?v=IosvCU9qM5M["Structured Concurrency in Action"]
+** https://www.youtube.com/watch?v=J754RsoUd00["Finally, final means final A deep dive into field immutability in Java by Per Minborg"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=uDtMuS7BExE["Mark Russinovich: From Blue Screens to Orange Crabs - Microsoft’s Rusty Revolution | RustConf 2025"]
+** https://www.youtube.com/watch?v=Z5M4NIWoMJQ["Tyler Mandry & Taylor Cramer: Fine-Grained C++ Interop | RustConf 2025"]
+** https://www.youtube.com/watch?v=rBaMcbKfN-Y["IEEEComputerSociety: SE Radio 690 - Florian Gilcher on Rust for Safety-Critical Systems"]
+** https://www.youtube.com/watch?v=zrv5Cy1R7r4["Rain: Cancelling Async Rust | RustConf 2025"]
+** https://www.youtube.com/watch?v=ve33hCLHbcg["Sam Lijin: Shipping Rust to Python, Typescript, and Ruby Users | RustConf 2025"]
+** https://www.youtube.com/watch?v=VthhIdqwdHc["Russell Cohen: A Hitchhiker’s Guide to Adopting Rust at Your Company | RustConf 2025"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=v0X7o5wdoeY["What's new with diagnostics in GCC 16"]
+** https://www.youtube.com/watch?v=2KZgFiciOxY["Dangerous Optimizations in C and C++ Programming Languages - Robert C. Seacord - ACCU 2025"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=-CSbWpj_IZM["DEF CON 33: Not Just a Pipeline Leak - Reconstructing Real Attack Behind tj-actions - Aviad Hahami"]
+** https://www.youtube.com/watch?v=mYC-rQ-HZaw["DEF CON 33: Regex For Hackers - Ben 'nahamsec' Sadeghipour"]
+* Misc:
+** https://www.youtube.com/watch?v=0SnuppAHOlQ["Top 10 Event Driven Architecture Pitfalls by Victor Rentea"]
+** https://www.youtube.com/watch?v=w74rC-6caxE["SoftwareUnscriptedPodcast: Zig Creator Andrew Kelley"]
+** https://www.youtube.com/watch?v=C5-741uQPVU["AaronFrancis: How Durable Objects and D1 Work - A Deep Dive with Cloudflare’s Josh Howard"]
+** https://www.youtube.com/watch?v=9oyhNDv882U["AaronFrancis: A million transactions per second - building TigerBeetle with Joran Greef"]
+
 == 2025-09-29
 
 * Hashtag #CloudNative:
