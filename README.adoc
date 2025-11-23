@@ -18,6 +18,39 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2025-11-23
+
+* Hashtag #SRE:
+** https://www.youtube.com/watch?v=vPcbT9hSUJU["SRECon25: Service Messy - Pagerduty's Service Mesh Migration"]
+** https://www.youtube.com/watch?v=DUDlCkM8BgQ["SRECon25: What I Wish I Knew Before Choosing Spot Instances"]
+** https://www.youtube.com/watch?v=6Wqav7pgetg["SRECon25: Finding the Needle in a Haystack - Tenant-Level Network Impact Analysis in Global-Scale Infrastructure"]
+** https://www.youtube.com/watch?v=nUvWhHlLuqo["SRECon25: Quality Gates in Production - How We Turn OpenTelemetry Signals into Deployment Decisions"]
+** https://www.youtube.com/watch?v=L1mu4XPJ45o["SRECon25: The Chicken or the Egg - Creating a Stable Preprod Environment as a Public Cloud Provider"]
+** https://www.youtube.com/watch?v=A8rFRryMIXs["SRECon25: CPU Utilization - The Hidden Cost of Running Hot"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=uTPRTkny7kQ["Java: Integrity by Default"]
+** https://www.youtube.com/watch?v=mLNFVNXbw7I["AcmSigplan: Industry GC Insights from OpenJDK"]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=9-CIInQhBUs["NoBoilerplate: Misusing Macros for fn and Profit (Live @EuroRust '25!)"]
+** https://www.youtube.com/watch?v=G1g6Me1FHmE["EuroRust: How Rust Compiles - Noratrieb"]
+** https://www.youtube.com/watch?v=-Xe9vQL0ZBY["SeattleRust: Mechanical Sympathy in Rust Performance Optimization — by Brian Pane"]
+** https://www.youtube.com/watch?v=k93vy66xwZU["RustInProduction: Cloudflare with Edward Wang & Kevin Guthrie"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=7fGB-hjc2Gc["LazoVelko: The worst programming language of all time"]
+** https://www.youtube.com/watch?v=VbSKnvldtbs["CppCon: Could C++ Developers Handle an ABI Break Today? - Luis Caro Campos"]
+** https://www.youtube.com/watch?v=q7OmdusczC8["ACCUConference: consteval All The Things? - Jason Turner"]
+** https://www.youtube.com/watch?v=dROeqPmgZJg["LLVM: State of Clang 2025"]
+** https://www.youtube.com/watch?v=aTKv5xVg2Kw["LLVM: An Undefined Behavior Annex for C++"]
+** https://www.youtube.com/watch?v=Klq-sNxuP2g["LoganSmith: Moves Are Broken"]
+** https://www.youtube.com/watch?v=riYle7nt6ZM["CppNow: Lambda All the Things - Braden Ganetsky"]
+** https://www.youtube.com/watch?v=oitYvDe4nps["CppCon: The Joy of C++26 Contracts - Myths, Misconceptions & Defensive Programming - Herb Sutter"]
+** https://www.youtube.com/watch?v=iw8hqKftP4I["CppCon: Implement the C++ Standard Library - Design, Optimisations, Testing while Implementing Libc++"]
+* Misc:
+** https://www.youtube.com/watch?v=5UkVl0xK-3E["CppNow: How the Linux User/Kernel ABI Really Works - Greg Law"]
+** https://www.youtube.com/watch?v=E_qxG2vX8XE["SRECon25: The Bitter and the Sweet of Running a Planet-Scale Build & CI Stack at Google"]
+** https://www.youtube.com/watch?v=Fxp3131i1yE["ThePragmaticEngineer: From Swift to Mojo and high-performance AI Engineering with Chris Lattner"]
+** https://www.youtube.com/watch?v=TEOxgDWDxLA["InfoTechResearchGroup: The AI Market Must Crash - Ed Zitron on Why the Bubble Will Burst"]
+
 == 2025-10-26
 
 * Hashtag #Java:
