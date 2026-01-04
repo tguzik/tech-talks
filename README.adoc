@@ -18,6 +18,32 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2026-01-04
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=jVwXcuNEDYE["KubeCon: Evicted! All the Ways Kubernetes Kills Your Pods (and How To Avoid Them) - Ahmet Alp Balkan"]
+** https://www.youtube.com/watch?v=HuC4k7fmTBk["KubeCon: In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without Restarts - Tim Allclair & Mofi Rahman, Google"]
+** https://www.youtube.com/watch?v=wkP1xCQMCaE["KubeCon: Introducing Helm 4 - Matt Farina & Robert Sirchia, SUSE"]
+** https://www.youtube.com/watch?v=GPo8WLCvaWw["KubeCon: But What About Reliability? - The Multi-Million Dollar Kubernetes Cost Optimization Question - Zain Malik & Nibir Bora"]
+** https://www.youtube.com/watch?v=dGGWoFBBkgk["KubeCon: Next Generation Extension Management Using Kubernetes Image Volumes - Andrew L'Ecuyer, Snowflake"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=4YW-aI3I7pI["KubeCon: It's Not a Best Practice If No One Can Follow It: Learning From Our Container Security Mistakes - Alex Zenla & John Morello"]
+** https://www.youtube.com/watch?v=U0ZYOTHrB7I["39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends"]
+** https://www.youtube.com/watch?v=BsFCvK23PCI["BlackHat: Keynote: CYBER! Please Check All Boxes Before You Get Pwned"]
+** https://www.youtube.com/watch?v=0ANECpNdt-4["39C3: AI Agent, AI Spy"]
+** https://www.youtube.com/watch?v=_fPanvQcwe4["39C3: Spectre in the real world: Leaking your private data from the cloud with CPU vulnerabilities"]
+* Hashtag #NativeCode:
+** https://www.youtube.com/watch?v=y5-NINPyWZ4["RustInProduction: Ubuntu/Canonical with Jon Seager"]
+** https://www.youtube.com/watch?v=n5UNkH_rKmE["EuroRust: Rust/C++ Interop: Carcinization or Intelligent Design? - Victor Ciura"]
+** https://www.youtube.com/watch?v=UECI6Q4bqWg["NDCConferences: Implicit (C++) Conversions Considered Harmful - Jason Turner"]
+* Misc:
+** https://www.youtube.com/watch?v=LOT3BccrhpA["CNCF: There's Nothing to Fear About the EU's New Cybersecurity Law - Greg Kroah-Hartman"]
+** https://www.youtube.com/watch?v=1JHOY0zqNBY["DeveloperVoices: Will Turso Be The Better SQLite? (with Glauber Costa)"]
+** https://www.youtube.com/watch?v=WRg13Ze_UpY["NDCConferences: Modern Architecture 101 for New Engineers & Forgetful Experts - Jerry Nixon"]
+** https://www.youtube.com/watch?v=ddWdUoFx9g4["LinuxFoundation: Enhancing Your Gaming Experience on Linux With Sched_ext - Changwoo Min, Igalia"]
+** https://www.youtube.com/watch?v=b6MDs4YsOMM["TechOverTea: Future Of Open Source Image Editors | Graphite Editor"]
+** https://www.youtube.com/watch?v=o9HAWx0SEVY["Confitura2025: Grzegorz Piwowarek - Czego programista Javy może nauczyć się od Golanga?"] [PL]
+
 == 2025-11-23
 
 * Hashtag #SRE:
