@@ -18,6 +18,51 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2026-03-15
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=hA3bb_5jGJw["CNCF: ingress-nginx Is Retiring, NGINX Is Not"]
+** https://www.youtube.com/watch?v=ysFP6X7rJhA["NDCConferences: Beyond Pub/Sub - Advanced Messaging Patterns - Poornima Nayar"]
+** https://www.youtube.com/watch?v=isABT791WlQ["IEEEComputerSociety: SE Radio 709 - Bryan Cantrill on the Data Center Control Plane"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=Rq4_hYYw0Hg["JFokus: CI Pulled It, Prod Ran It: The Real Risk in Dependency, by GraphsIlkka Turunen"]
+** https://www.youtube.com/watch?v=rzfAutv6sB8["BlackHat: Advanced Active Directory to Entra ID Lateral Movement Techniques"]
+** https://www.youtube.com/watch?v=M_BDq2hTJxU["BlackHat: AI Enterprise Compromise - 0click Exploit Methods"]
+** https://www.youtube.com/watch?v=fM5w7bFNvWI["CCC: Don’t look up: There are sensitive internal links in the clear on GEO satellites"]
+** https://www.youtube.com/watch?v=0dMzlw-qSZI["CCC: APT Down and the mystery of the burning data centers"]
+** https://www.youtube.com/watch?v=4-sXVp-kQuM["NDCConferences: Anatomy of an Incident (featuring CrowdStrike) - Liam Westley"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=gfBTuL7xkp8["Devoxx: Tracing Java's Hidden Performance Traps by Victor Rentea"]
+** https://www.youtube.com/watch?v=NdY4M2rDeJE["JFokus: JDK 25's new CPU-Time Profiler, by Johannes Bechberger"]
+** https://www.youtube.com/watch?v=FUFsul26rgA["How Spring Boot Really Works (From a Core Engineer) - Moritz Halbritter"]
+** https://www.youtube.com/watch?v=O7yQHQGUFZI["Confitura: Artur Skowronski - Czy warto uruchamiać Javę na ARM? Uwierz mi, to interesujące pytanie"] [PL]
+* Hashtag #Rust:
+** https://www.youtube.com/watch?v=WOA4GA8tAWA["RustNationUK: Rust Adoption At Scale with Ubuntu - Jon Seager"]
+** https://www.youtube.com/watch?v=IPmRDS0OSxM["Jack O'Connor: A Firehose of Rust, for busy people who know some C++"]
+** https://www.youtube.com/watch?v=9zq8JbGo7ow["EuroRust: Data Engineering with Rust - Michele Vigilante"]
+** https://www.youtube.com/watch?v=fXnuR6nXJzc["TechOverTea: Ladybird Browser Is In For A Rusty Future | Andreas Kling"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=_M94MUX72o8["NDCConferences: C++20 Modules, 5 Years Later - Mikhail Svetkin"]
+** https://www.youtube.com/watch?v=PcidhLUYp-4["CppCon: C++26 - What's In It For You? - Marc Gregoire"]
+** https://www.youtube.com/watch?v=p52mNWsh-qs["CppCon: Making C++ Safe, Healthy, and Efficient - John Lakos"]
+** https://www.youtube.com/watch?v=LVU7lq9aL8o["CppCon: Back To Basics: C++ Strings and Character Sequences - Nicolai Josuttis"]
+** https://www.youtube.com/watch?v=NDfTwOvWIao["CppCon: CMake Doesn't Have to Be Painful | Simple Strategies That Work - Bret Brown"]
+** https://www.youtube.com/watch?v=p_tqzPAM9tY["MeetingC++: Sanitize for your Sanity: Sanitizers tools for Modern C++ - Evgenii Seliverstov"]
+* Hashtag #OperatingSystems:
+** https://www.youtube.com/watch?v=PBlDHlFnzGo["FOSDEM: How to Make Package Managers Scream - Kenneth Hoste"]
+** https://www.youtube.com/watch?v=3OAiOfCcYFM["CCC: Asahi Linux - Porting Linux to Apple Silicon"]
+** https://www.youtube.com/watch?v=L2KBV2CgLdo["CONFidence: Adam Kliś - Nix - open source tool for building your empire"] [warning: loud intro]
+* Misc:
+** https://www.youtube.com/watch?v=aIh2XBS4pr0["JFokus: The Best Simple System for Now, by Daniel Terhorst-North"]
+** https://www.youtube.com/watch?v=PZm_YbE3fcA["GopherCon2025: Porting the TypeScript Compiler to Go for a 10x Speedup - Jake Bailey"]
+** https://www.youtube.com/watch?v=3C1Gnxhfok0["CCC: A post-American, enshittification-resistant internet"]
+** https://www.youtube.com/watch?v=G3y9sTUDEYk["CCC: In-house electronics manufacturing from scratch: How hard can it be?"]
+** https://www.youtube.com/watch?v=RMveiKaXtQw["NDCConferences: The Undersea Cable Network - Richard Campbell"]
+** https://www.youtube.com/watch?v=_hoeeFc7OWM["CCC: How to keep Open Source open without leaving our communities open to threats"]
+** https://www.youtube.com/watch?v=rsCGisbz04Y["TheTechReport: Ed Zitron - At least a quarter of AI data centres will go unused"]
+** https://www.youtube.com/watch?v=bz0Gd0Mi1A0["BetterOffline: Corey Quinn on AWS and all things Cloud"]
+** https://www.youtube.com/watch?v=1O-iGvzyBis["Confitura: Sebastian Buczyński - Czy jesteś śrubokrętem?"] [PL]
+
 == 2026-01-04
 
 * Hashtag #CloudNative:
