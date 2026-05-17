@@ -18,6 +18,52 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2026-05-17
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=wbrdm7N9EfY["CNCF: Cluster Autoscaler Evolution - Kuba Tużnik, Google & Jack Francis, Microsoft"]
+** https://www.youtube.com/watch?v=FnYtIGYkLRU["SREcon: The Unconspicuous Role of Conntrack in Kubernetes Networking"]
+** https://www.youtube.com/watch?v=aYq9a4qUszs["SREcon: Mean Time to WTF: Why Developer Experience Frameworks Belong in Your Incident Retrospectives"]
+** https://www.youtube.com/watch?v=qq0Auw01tH8["WasmIO: Towards a Component Model 1.0 by Luke Wagner"]
+** https://www.youtube.com/watch?v=vUu4s2vQne0["GOTOConferences: Beyond Line Charts • Yao Yue"]
+** https://www.youtube.com/watch?v=mRp6f55BLr4["SREcon: Intelligent Load Balancing in Kubernetes"]
+** https://www.youtube.com/watch?v=1Nm9TPCwqS8["CNCF: Running the Runners: How CNCF Powers GitHub Actions at Scale - Koray Oksay, Kubermatic"]
+** https://www.youtube.com/watch?v=MYJd5EQsNY4["SysOpsDevOpsPolska: Kubernetes Gateway API - co to takiego? - Marcin Lewandowski"] [PL]
+* Hashtag #OpenSource:
+** https://www.youtube.com/watch?v=5lIOd8c3mbw["NixCon: How NixOS is built: From Pull Request to your `/nix/store`"]
+** https://www.youtube.com/watch?v=5FiAnB8Preo["CNCF: Unconference Session: How Should Maintainers Navigate (and Review) AI-based PRs?"]
+** https://www.youtube.com/watch?v=Jts62hWkRO8["TheMarcoShow: The Ugly Truth About Open Source - Andres Almiray"]
+** https://www.youtube.com/watch?v=x4tog71epiY["SouthernCaliforniaLinuxExpo: Steering the Future of NixOS: Governance, Growth, and Community"]
+** https://www.youtube.com/watch?v=t9ivC2eOg1w["TechOverTea: The Origins Of Slackware Linux | David Cantrell"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=FJbuAyxTTWc["BlackHat: HTTP/1.1 Must Die! The Desync Endgame"]
+** https://www.youtube.com/watch?v=3wQHhGxVTuo["BlackHat: Unix Underworld: Tales from the Dark Side of z/OS"]
+** https://www.youtube.com/watch?v=ULXuhxj-WgA["BlackHat: Racing for Privilege"]
+** https://www.youtube.com/watch?v=j51uMah-3js["NDCConferences: Attacking AI - Jason Haddix"]
+** https://www.youtube.com/watch?v=gvRH64-L3BA["Devoxx: 5,5 prompt injection techniques in 15 minutes by Brian Vermeer"]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=86eK0Or2eIE["Java 26 - Better Language, Better APIs, Better Runtime"]
+** https://www.youtube.com/watch?v=rDdM7b1DWB8["Devoxx: The Art of Java Type Patterns by Simon Ritter"]
+** https://www.youtube.com/watch?v=J4O5h3xpIY8["How the JVM Optimizes Generic Code - A Deep Dive"]
+** https://www.youtube.com/watch?v=ucJTPda_zx0["How Netflix Uses Java - 2026 Edition"]
+** https://www.youtube.com/watch?v=v9Pq69Y_yqM["GOTOConferences: State of the Art of Java in 2026 • Ben Evans"]
+* Hashtag #C++:
+** https://www.youtube.com/watch?v=cD-JgncskTQ["HSPF: CMake Past, Present, and Future - Bill Hoffman, Kitware"]
+* Misc:
+** https://www.youtube.com/watch?v=v7JNn_kVg7o["SouthernCaliforniaLinuxExpo: Cloud Taming - A Human Friendly DevOps Experience"]
+** https://www.youtube.com/watch?v=zoYT7R94S3c["CppCon: Some Assembly Required - Matt Godbolt"]
+** https://www.youtube.com/watch?v=_n2vN-Bgq4U["NDCConferences: Three decades of curl - Daniel Stenberg"]
+** https://www.youtube.com/watch?v=zEFUssX-goY["SREcon: 5 Wrong Hypotheses about PostgreSQL Multi-Transaction Locks"]
+** https://www.youtube.com/watch?v=6rss_8Zk_9o["SouthernCaliforniaLinuxExpo: What's new in PostgreSQL 18"]
+** https://www.youtube.com/watch?v=5vL6aCvgQXU["ThePragmaticEngineer: How AWS S3 is built"]
+** https://www.youtube.com/watch?v=K-Xv8D8NjTk["ThePragmaticEngineer: TypeScript, C# and Turbo Pascal with Anders Hejlsberg"]
+** https://www.youtube.com/watch?v=Kn_P9nG0zsA["ThePragmaticEngineer: The history of servers, the cloud, and what’s next – with Oxide"]
+** https://www.youtube.com/watch?v=CPCbjHILJV4["WookashPodcast: Compression Flavours | Fabian Giesen"]
+** https://www.youtube.com/watch?v=8XGcc-FRPuo["BeJS: TanStack Start: A Client First Web Framework - Tanner Linsley"]
+** https://www.youtube.com/watch?v=NbenxkeJkEA["NDCConferences: 10 Tips To Level Up Your AI-Assisted Coding - Aleksander Stensby"]
+** https://www.youtube.com/watch?v=Ru_Ay9C4weA["Devoxx: How to survive and thrive as a dev (team) in the exponential age of AI by Sander Hoogendoorn"]
+** https://www.youtube.com/watch?v=dAKqCxb5dYk["SysOpsDevOpsPolska: Infrastruktura nie/domowa dla *nixowców - Piotr Pyciński"] [PL]
+
 == 2026-03-15
 
 * Hashtag #CloudNative:
