@@ -1,2 +1,7 @@
-.idea/
+# Build and temporary directories
+target/
 tmp/
+
+# IntelliJ IDEA
+.idea/
+*.iml
