@@ -18,6 +18,30 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2026-06-07
+
+* Hashtag #OpenSource:
+** https://www.youtube.com/watch?v=fi29pfLcW4I["LinuxFoundation: Keynote: Linus Torvalds, Creator of Linux & Git with Dirk Hohndel"]
+** https://www.youtube.com/watch?v=7zJ08MJ24r4["LinuxFoundation: Being a Maintainer in the Age of LLM Mania - Kevin Hannon"]
+** https://www.youtube.com/watch?v=qwMEYoyhn-0["LinuxFoundation: The Code Is the Contract: How Linux's Architecture Sheds Light on GPL Compliance - Sabir Ibrahim"]
+** https://www.youtube.com/watch?v=s1eGEQ7gzi8["IEEEComputerSociety: SE Radio 723: Dave Airlie on Linux Kernel Maintenance"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=onxC-5-zYus["BlackHatEurope2025: Network Operations Center (NOC) Report"]
+** https://www.youtube.com/watch?v=akiGi2WnHBU["BlackHatEurope2025: The Post-NVD Era: A Call for Global CVE Decentralization"]
+** https://www.youtube.com/watch?v=ZkJhtRGXwQk["LinuxFoundation: From Compliance To Code: The Cyber Resilience Act, SBOMs, DevTeams and YOU! - Marcus Ross & Peter Dickten"]
+** https://www.youtube.com/watch?v=_FrcGntNgpA["LinuxFoundation: Is Maven Safe for Production? - Adam Kaplan, Red Hat & Manfred Moser, Chainguard"]
+* Misc:
+** https://www.youtube.com/watch?v=NCwhMeAERMY["LinuxFoundation: The Technical Talent Market in 2026 - Anna Hermansen & Clyde Seepersad"]
+** https://www.youtube.com/watch?v=F8X9_Dp3ZUk["BeyondCoding: Google & AWS Veteran: What Top Tier Software Architects Do Differently"]
+** https://www.youtube.com/watch?v=DR4zoC_306E["KrisFurman: Nerding Out About: WebAssembly (WASM)"]
+** https://www.youtube.com/watch?v=41YX8U6AK8w["DevoxxUK: 10 Things Rust Could Learn from Java (and 5 Things Java Should Probably Steal Back) by Scott Gerring"]
+** https://www.youtube.com/watch?v=U46fJ2bJ-co["RyanPeterman: Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup"]
+** https://www.youtube.com/watch?v=lI7tMxzSJ7w["CultRepo: The Story of C++: The World's Most Consequential Programming Language | The Official Story"]
+** https://www.youtube.com/watch?v=iqddnwKF8HQ["JetBrains: Zig 2026: No-AI Policy, $670K Foundation, Left GitHub & Why Zig Isn’t 1.0 - Andrew Kelley Explains"]
+** https://www.youtube.com/watch?v=Xn_YpUtXWT4["IntellijIDEA: Scala Was an Experiment That Changed Programming - Martin Odersky | The Marco Show"]
+** https://www.youtube.com/watch?v=djnWcCFmny8["TechOverTea: Creator Of Odin Programming Language | GingerBill"]
+** https://www.youtube.com/watch?v=UlXpOGIpITM["ThePragmaticEngineer: Kubernetes and retiring at the top with Kelsey Hightower"]
+
 == 2026-05-17
 
 * Hashtag #CloudNative:
