@@ -18,6 +18,35 @@ publication dates, however this isn't a hard requirement. Large portion of the l
 of conference talks, but that isn't a hard requirement either as regular youtube-style content is a-ok, as long as it
 is on topic. Talks that are not in english will be listed at the end, with a tag, but besides that they are not any particular order.
 
+== 2026-07-26
+
+* Hashtag #CloudNative:
+** https://www.youtube.com/watch?v=orO2_jLV720["CNCF: Zero-Downtime Migration - Ingress NGINX to Envoy Gateway 33 minutes"]
+** https://www.youtube.com/watch?v=Cnm7hbq_vGI["SouthernCaliforniaLinuxExpo: Modernizing local storage management for systemd services"]
+** https://www.youtube.com/watch?v=yjV2B8tuc4Y["InfoQ: What Nobody Tells You About Cloud Sovereignty"]
+** https://www.youtube.com/watch?v=DcWj6aVSCHM["SysOpsDevOpsPolska: Bezpieczeństwo w Kubernetes - zarządzanie siecią i sekretami - Jakub Jastrzębski, Paweł Zimny"] [PL]
+* Hashtag #Java:
+** https://www.youtube.com/watch?v=BdLND9D81lI["JavaOne26: Better Tools for Immutable Data"]
+** https://www.youtube.com/watch?v=ZqGSg4b_cZA["CultRepo: The Java Story - The Official Documentary"]
+** https://www.youtube.com/watch?v=pq2ZO3tQXW8["JavaOne26: Java Memory Management Best Practices"]
+** https://www.youtube.com/watch?v=U7iLqtU6XCk["TheLinuxFoundation: The Next Evolution of Java - Achieving Hyper Performance and Efficiency in Cloud Native... Daniel Oh"]
+* Hashtag #Security:
+** https://www.youtube.com/watch?v=ILnTkeuxPPw["BlackHatEurope2025: Token Injection - Crashing LLM Inference With Special Tokens"]
+** https://www.youtube.com/watch?v=-ueCcEdDjOM["BlackHatEurope2025: Understanding Trends & Patterns In Insider Threat - Analysis Of 1,000+ Cases"]
+** https://www.youtube.com/watch?v=7c15gEyJF1I["BlackHatEurope2025: Nation-Scale SecOps - How CERT PL Scans Poland"]
+** https://www.youtube.com/watch?v=L6H8DCYpmCI["JDD: Michał Sajdak - Przegląd ciekawych podatności w aplikacjach webowych"] [PL]
+* Misc:
+** https://www.youtube.com/watch?v=DZTkT1Cq_aY["CppNow26: Keynote - Reflection Is Only Half the Story - Barry Revzin"]
+** https://www.youtube.com/watch?v=EU_nQh8wg5A["CppNow26: Keynote - Benchmarking - It's About Time - Matt Godbolt"]
+** https://www.youtube.com/watch?v=EqaPnuR73Eg["PostgreSQL: Optimizing code in the hot path; with examples from tuple deformation"]
+** https://www.youtube.com/watch?v=csSykRsRezM["TheLinuxFoundation: Guide To Become Linux Kernel Maintainer - Krzysztof Kozlowski, Qualcomm"]
+** https://www.youtube.com/watch?v=uWnUnMphmPM["NDCConferences: Keynote - After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026"]
+** https://www.youtube.com/watch?v=2x0eq5oDOJY["ThePragmaticEngineer: CI/CD with Robert Erez"]
+** https://www.youtube.com/watch?v=8br5QcmYq84["SoftwareUnscriptedPodcast: TigerBeetle's Spectacular Jepsen Report - with Joran Greef"]
+** https://www.youtube.com/watch?v=zTenuG5b4Eo["Beyond Coding: Why These Engineering Skills Get You Hired No Matter What (Nebius CTO)"]
+** https://www.youtube.com/watch?v=SXg08HPpKr8["Beyond Coding: AWS Veteran - How The New AI Software Development Life Cycle Works"]
+** https://www.youtube.com/watch?v=e2sT5QOczBA["OMH26: Jak rozwalamy (notorycznie) Zadufaną Trzecią Stronę - Adam Haertle, Antoni Mróz"] [PL]
+
 == 2026-06-07
 
 * Hashtag #OpenSource:
